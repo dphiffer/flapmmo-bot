@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        FlapMMO bot
 // @namespace   http://phiffer.org/
-// @description A bot to cheat at FlapMMO
+// @description A userscript bot for cheating at FlapMMO
 // @include     http://flapmmo.com/
 // @version     1
 // @grant       none
