@@ -25,4 +25,5 @@ Links
 * [FlapMMO](http://flapmmo.com/)
 * [Demo video](https://www.youtube.com/watch?v=Wbn5h3D0a2g)
 * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) (particularly [getImageData](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#getImageData%28%29))
+* [Bookmarklet Crunchinator](http://ted.mielczarek.org/code/mozilla/bookmarklet.html)
 * On Twitter: [Dan Phiffer](https://twitter.com/dphiffer), [FlapMMO](https://twitter.com/flapmmo)
