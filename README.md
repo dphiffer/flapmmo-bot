@@ -18,3 +18,11 @@ Userscript
 You can also install FlapMMO-bot as a [Greasemonkey](http://greasespot.net/) userscript. If you have Greasemonkey installed, loading the [raw userscript file](https://github.com/dphiffer/flapmmo-bot/raw/master/flapmmo-bot.user.js) will trigger it to install.
 
 Once installed, you just visit the [FlapMMO](http://flapmmo.com/) website, and it should start working all on its own.
+
+Links
+-----
+
+* [FlapMMO](http://flapmmo.com/)
+* [Demo video](https://www.youtube.com/watch?v=Wbn5h3D0a2g)
+* [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D) (particularly [getImageData](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#getImageData%28%29))
+* On Twitter: [Dan Phiffer](https://twitter.com/dphiffer), [FlapMMO](https://twitter.com/flapmmo)
