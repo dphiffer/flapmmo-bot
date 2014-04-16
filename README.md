@@ -8,9 +8,9 @@ A simple JavaScript bot that uses computer vision and the Canvas API to cheat at
 Bookmarklet
 -----------
 
-To install, copy and paste [the bookmarklet text file](https://raw.githubusercontent.com/dphiffer/flapmmo-bot/master/flapmmo-bot-bookmarklet.txt) into a new bookmark. The URL of the bookmark should be `javascript:(function(){var%20FlapMMObot={...`
+To install, copy and paste [the bookmarklet text file](https://raw.githubusercontent.com/dphiffer/flapmmo-bot/master/flapmmo-bot-bookmarklet.txt) into a new browser bookmark. The URL of the bookmark should be `javascript:(function(){var%20FlapMMObot={...`
 
-Just visit the bookmark (or click on the button if it's in your bookmark toolbar) to activate FlapMMO-bot while at [flapmmo.com](http://flapmmo.com/). You just need to click once, and the bot should start flying by itself.
+To activate FlapMMO-bot, select the bookmark (or click on the button if it's in your bookmark toolbar) while at [flapmmo.com](http://flapmmo.com/). You just need to click once, and the bot should start flying by itself.
 
 Userscript
 ----------
